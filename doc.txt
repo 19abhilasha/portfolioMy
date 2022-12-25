@@ -1,0 +1,4 @@
+#2c363f  main font colour
+#646b6f  second font colour
+#d2d6ce  third font colour
+#f2f5ea  background colour
