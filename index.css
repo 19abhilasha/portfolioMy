@@ -16,7 +16,7 @@
 .display-column {
     display: flex;
     flex-direction: column;
-    align-items:flex-start;
+    /* align-items:flex-start; */
     justify-content:space-between;
 }
 
@@ -76,9 +76,9 @@
  
 }
 .left-main{
-    /* background-color: blue; */
     font-size: 3.6rem;
-    max-width: 60rem;
+    max-width: 62rem;
+    /* min-width: 30rem; */
 }
 .h-rule{
     height: 0.7rem;
@@ -110,5 +110,12 @@
     font-size: 3.6rem;
 }
 .right-main{
-    background-color: red;
+background-image:url(./WhatsApp\ Image\ 2023-01-10\ at\ 12.22.49\ AM.jpeg);
+background-repeat: no-repeat;
+background-size: 100%;
+width: 420px;
+height: 500px;
+min-width: 20.8rem;
+min-height: 30.8rem;
+max-width: 35rem;
 }
